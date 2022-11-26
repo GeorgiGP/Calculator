@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color:rgb(135, 174, 246);
+    background-color: darkslategrey;
+    border: 3px dashed;
+}
+
+#p1 {
+    color:rgb(255, 136, 45);
+    word-spacing: 2px;
+    text-align: center;
+    font-size: 160%;  
+    font: 600 20px sans-serif;
+}
+
+#operate {
+    font: 800 20px sans-serif;
+    border: 4px solid rgb(255, 136, 45);
+}
+
+#equal {
+    font: 800 20px sans-serif;
+    width: 50px;
+    border: 4px solid rgb(135, 174, 246);
+}
+
+#p2 {
+    color:rgb(135, 174, 246);
+    word-spacing: 2px;
+    text-align: center;
+    font-size: 160%;  
+    font: 600 20px sans-serif;
+}
+
+body {
+    background-color:darkslategray;
+}
